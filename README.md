@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There!
 
 👋 Hello, im Asaph. A developer whit focus on frontend development, who is in love with Javascript/Typescript.
 👀 Im looking for my first experience as a Front-end developer.
