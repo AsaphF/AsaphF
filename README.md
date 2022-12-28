@@ -1,7 +1,6 @@
 ### Hello There!
 
-👋 Hello, im Asaph. A developer whit focus on frontend development, who is in love with Javascript/Typescript.
-👀 Im looking for my first experience as a Front-end developer.
+👋 Hello, im Asaph. A developer whith focus on frontend development.
 - 🔭 I’m currently working on ...
 - 🌱 At moment I am learning React and practicing my skills buinding new stuff.
 - 💞️ I understand HTML, CSS, SASS, JS, Typescript, Bootstrap.
